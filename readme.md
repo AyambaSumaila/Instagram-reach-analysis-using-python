@@ -20,13 +20,13 @@ This project investigates the key metrics driving Instagram reach, focusing on p
         Strong Positive Correlation: There is a direct and strong relationship between the number of shares a post receives and its total impressions. Posts that are frequently shared tend to achieve much broader reach.
 
 
-![](images/pict.png)
-![](images/pict_2.png)
-![](images/pict_3.png)
-![](images/pict_4.png)
-![](images/pict_5.png)
-![](images/pict_6.png)
-![](images/pict_7.png)
+![](Images/pict.png)
+![](Images/pict_2.png)
+![](Images/pict_3.png)
+![](Images/pict_4.png)
+![](Images/pict_5.png)
+![](Images/pict_6.png)
+![](Images/pict_7.png)
 
 ## 🗂️ Project Structure
 
